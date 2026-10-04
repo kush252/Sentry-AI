@@ -1,0 +1,4 @@
+sam_proj/
+.env
+venv
+*.pyc
